@@ -12,7 +12,7 @@
 
 import java.util.Scanner;
 
-public class Zadaca36 {
+public class Zadaca {
     public static void mirrorSubInterval(SLL<Integer> list, int x, int y){
         //3 -> indeks 3,    1 -> indeks 5
         int count = 0;
