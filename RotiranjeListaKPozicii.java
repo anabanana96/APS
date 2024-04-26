@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Zadaca25 {
+public class Zadaca {
     public static void main(String[] args) {
         //rotiranje na lista za k pozicii
         Scanner input = new Scanner(System.in);
