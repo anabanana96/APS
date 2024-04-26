@@ -1,6 +1,6 @@
 //da ne se koristat dopolnitelni strukturiimport java.util.Scanner;
 
-public class Zadaca26 {
+public class Zadaca {
     public static void main(String[] args) {
         //rotiranje DLL za k pozicii
         DLL<Integer> list = new DLL<>();
