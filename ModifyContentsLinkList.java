@@ -12,7 +12,7 @@
 
 Import java.util.Scanner;
 
-public class Zadaca23 {
+public class Zadaca {
     public static void flipHalfList(SLL<Integer> list){
         int count = 0;
         SLLNode<Integer> node = list.getFirst();
